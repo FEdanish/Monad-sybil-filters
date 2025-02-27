@@ -21,3 +21,5 @@ less > 10 txs = 75%
 My suggestion is to do mini 50-60 quality transactions so that you remain completely safe.
 
 Warning ⚠️: 3-5 transactions per day, you have to do transactions in 10-15 days ... not in one day.
+
+4)
