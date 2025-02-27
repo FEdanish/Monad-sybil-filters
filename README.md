@@ -1,8 +1,8 @@
 <h1>A Depth research on Monad sybil filters</h1>
 
-<h>1)<h/> Avg daily Active users: 100k+
+<h1>1)<h1/> Avg daily Active users: 100k+
 
-2) Total Accounts: 4.8M
+<h1>2)<h1/> Total Accounts: 4.8M
 https://testnet.monadexplorer.com
 
 3) Totally how many transactions have you done, check it from here: https://layerhub.xyz/search?p=monad_testnet
