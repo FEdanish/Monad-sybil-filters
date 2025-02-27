@@ -51,6 +51,8 @@ FANTASY TOP: 337K+
 
 Mandatory interact with the project that Monad is highlighting on its website: https://testnet.monad.xyz
 
+💎
+
 5) Active wallets
 
 Eth Active wallets = 783K
