@@ -40,3 +40,11 @@ Warning ⚠️: 3-5 transactions per day, you have to do transactions in 10-15 d
 0.008-0.009 $MON gas fees pr TX.
 
 Suggestion: 50-70 Quality transactions (7%)
+
+5) Top Contracts
+
+Uniswap: 486K+
+FANTASY TOP: 337K+
+
+Mandatory interact with the project that Monad is highlighting on its website: https://testnet.monad.xyz
+
