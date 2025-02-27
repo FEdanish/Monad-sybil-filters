@@ -5,7 +5,7 @@
    
 💎
 
-3) Total Accounts: 4.8M
+2) Total Accounts: 4.8M
 https://testnet.monadexplorer.com
 
 💎
@@ -29,7 +29,7 @@ Warning ⚠️: 3-5 transactions per day, you have to do transactions in 10-15 d
 
 💎
 
-4) Fee Spent ($MON)
+3) Fee Spent ($MON)
    
 0.1 - 0.5 $MON = 89%
 
@@ -43,11 +43,25 @@ Suggestion: 50-70 Quality transactions (7%)
 
 💎
 
-5) Top Contracts
+4) Top Contracts
 
 Uniswap: 486K+
 
 FANTASY TOP: 337K+
 
 Mandatory interact with the project that Monad is highlighting on its website: https://testnet.monad.xyz
+
+5) Active wallets
+
+Eth Active wallets = 783K
+
+BSC Active wallets = 747K
+
+ARB Active wallets = 744K
+
+Polygon Active wallets = 673K
+
+Optimism Active wallets = 583K
+
+NFT mainnet tx = 97K
 
