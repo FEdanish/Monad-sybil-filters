@@ -41,6 +41,8 @@ Warning ⚠️: 3-5 transactions per day, you have to do transactions in 10-15 d
 
 Suggestion: 50-70 Quality transactions (7%)
 
+💎
+
 5) Top Contracts
 
 Uniswap: 486K+
