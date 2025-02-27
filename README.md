@@ -6,6 +6,7 @@
 https://testnet.monadexplorer.com
 
 3) Totally how many transactions have you done, check it from here: https://layerhub.xyz/search?p=monad_testnet
+
    
 > 10 txs = 75%
 
