@@ -46,6 +46,7 @@ Suggestion: 50-70 Quality transactions (7%)
 5) Top Contracts
 
 Uniswap: 486K+
+
 FANTASY TOP: 337K+
 
 Mandatory interact with the project that Monad is highlighting on its website: https://testnet.monad.xyz
