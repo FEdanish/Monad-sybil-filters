@@ -1,4 +1,12 @@
 <h1>A Depth research on Monad sybil filters</h1>
+
+😉😉According to me, maximum 1M-1.5M people can get $MON airdrop, not more than -- (CHECK calculation) 👇
+
+Just imagine, if each wallet receives an average of $500 in an airdrop from Monad.
+
+If Monad airdrops to a maximum of 1 million wallets, the total airdrop value would be $500 million, which is quite huge.
+
+If 1.5 million wallets receive the airdrop, the total airdrop value would be $750 million. 
   
 
 1) Avg daily Active users: 100k+
